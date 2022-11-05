@@ -4,7 +4,7 @@
   docker_image:
     name: devops
     build:
-      path: /var/lib/jenkins/workspace/crudtuto-Front
+      path: /var/lib/jenkins/workspace/pipelineCD@2
       pull: no
     source: build
     state: present
